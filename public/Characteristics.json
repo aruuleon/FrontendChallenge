@@ -1,0 +1,26 @@
+[
+    {
+        "description": "seats",
+        "image": "/FrontendChallenge/img/seats.svg"
+    },
+    {
+        "description": "large suitcase",
+        "image": "/FrontendChallenge/img/luggage.svg"
+    },
+    {
+        "description": "small suitcase",
+        "image": "/FrontendChallenge/img/bag.svg"
+    },
+    {
+        "description": "doors",
+        "image": "/FrontendChallenge/img/seats.svg"
+    },
+    {
+        "description": "Automatic transmission",
+        "image": "/FrontendChallenge/img/transmision.svg"
+    },
+    {
+        "description": "Air Conditioning",
+        "image": "/FrontendChallenge/img/air-conditioning.svg"
+    }
+]
